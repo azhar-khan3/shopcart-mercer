@@ -4,9 +4,9 @@
 
 export const environment = {
   production: false,
-  apiUrl: "https://shopcart-mercer-backend.onrender.com",
-  productApi: "https://shopcart-mercer-backend.onrender.com/product",
-  productFilterApi: "https://shopcart-mercer-backend.onrender.com/product/filter"
+  apiUrl: "http://localhost:3000",
+  productApi: "http://localhost:3000/product",
+  productFilterApi: "http://localhost:3000/product/filter"
 };
 
 /*
